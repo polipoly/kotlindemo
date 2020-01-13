@@ -12,4 +12,5 @@ data class User(@TableId(type = IdType.UUID)
                 var orgid:String?,
                 var phone:String?,
                 var email:String?,
-                @TableField(exist = false)var orgname:String?)
+                @TableField(exist = false)var orgname:String?
+)
