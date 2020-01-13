@@ -1,0 +1,7 @@
+person:
+  name: 贤于
+  age: 13
+  maps:
+    -ky1: v1
+    -ky2: v2
+  list1: s1,s2,s3
